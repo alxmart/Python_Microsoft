@@ -1,2 +1,2 @@
-# Python_Microsoft_Courses
-Python exercises / Microsoft Python courses
+# Python_Microsoft
+Python tests and exercises from Microsoft courses.
